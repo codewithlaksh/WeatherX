@@ -9,6 +9,6 @@ Tech Stack:
 | JavaScript   |
 
 ### Demo Image
-![Demo Image](https://github.com/codewithlaksh/WeatherX/blob/master/public/demo.png)
+![Demo Image](https://github.com/codewithlaksh/WeatherX/blob/master/public/images/demo.png)
 
 #### Thank You
