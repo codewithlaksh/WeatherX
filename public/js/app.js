@@ -59,7 +59,7 @@ const getWeather = async (cityName) => {
         queryLocation.innerHTML = `<p class="my-3">Some error occurred...</p>`;
     } else {
         queryLocation.innerHTML = `
-        <h1>Weather for your location:</h1>
+        <h1>Weather of <strong>"${cityName}"</strong>:</h1>
         <p><strong>Temperature :</strong> ${data.temp}°C</p>
         <p><strong>Humidity :</strong> ${data.humidity}</p>
         <p><strong>Wind Speed :</strong> ${data.wind_speed}</p>`
